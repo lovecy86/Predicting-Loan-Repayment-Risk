@@ -1,4 +1,4 @@
-# Predicting Loan Repayment Risk: A Logistic Regression Analysis of Borrower Creditworthiness"
+# Predicting Loan Repayment Risk: A Logistic Regression Analysis of Borrower Creditworthiness
 
 ## Overview : 
 In order to determine the eligibility criteria for sanctioning loans, an analysis was done on a historical loan dataset,  which shows the lending activity from a peer-to-peer lending service company. Analyzing this dataset provides insights into a borrower's likelihood of repaying a loan. This would  help lenders decide whether to approve or deny loan applications by predicting the likelihood of repayment.
